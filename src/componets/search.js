@@ -24,7 +24,6 @@ class Search extends Component {
             query: this.search.value
         })
     }
-
     render() {
         return ( <
             form >
